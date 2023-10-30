@@ -197,7 +197,7 @@ def view_data(df):
     
     
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 
 def main():
